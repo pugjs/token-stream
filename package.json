@@ -1,6 +1,6 @@
 {
   "name": "token-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Take an array of token and produce a more useful API to give to a parser",
   "dependencies": {},
   "devDependencies": {
