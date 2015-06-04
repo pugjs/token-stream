@@ -57,7 +57,7 @@ Returns the next item in the stream and advances the stream by one item.
 
 ### stream.defer(token)
 
-Put a token on the start of the stream (useful if you need to back track after calling advance.
+Put a token on the start of the stream (useful if you need to back track after calling advance).
 
 ### stream.lookahead(index)
 
