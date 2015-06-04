@@ -41,7 +41,7 @@ assert(stream.advance() === 'd');
 
 // an error is thrown if you try and advance beyond the end of the stream
 assert.throws(function () {
-  stream.adavance();
+  stream.advance();
 });
 ```
 
