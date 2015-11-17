@@ -4,7 +4,7 @@
   "description": "Take an array of token and produce a more useful API to give to a parser",
   "dependencies": {},
   "devDependencies": {
-    "istanbul": "^0.3.2"
+    "istanbul": "*"
   },
   "scripts": {
     "test": "node test && npm run coverage",
