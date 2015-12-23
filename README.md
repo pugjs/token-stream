@@ -3,7 +3,7 @@
 Take an array of token and produce a more useful API to give to a parser.
 
 [![Build Status](https://img.shields.io/travis/pugjs/token-stream/master.svg)](https://travis-ci.org/pugjs/token-stream)
-[![Dependency Status](https://img.shields.io/gemnasium/pugjs/token-stream.svg)](https://gemnasium.com/pugjs/token-stream)
+[![Dependency Status](https://img.shields.io/david/pugjs/token-stream.svg)](https://david-dm.org/pugjs/token-stream)
 [![NPM version](https://img.shields.io/npm/v/token-stream.svg)](https://www.npmjs.org/package/token-stream)
 
 ## Installation
