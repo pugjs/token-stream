@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jadejs/token-stream.git"
+    "url": "https://github.com/pugjs/token-stream.git"
   },
   "author": "ForbesLindesay",
   "license": "MIT"
