@@ -2,6 +2,7 @@
   "name": "token-stream",
   "version": "1.0.0",
   "description": "Take an array of token and produce a more useful API to give to a parser",
+  "types": "./index.d.ts",
   "dependencies": {},
   "devDependencies": {
     "istanbul": "*"
