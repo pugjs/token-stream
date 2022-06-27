@@ -4,11 +4,11 @@
   "description": "Take an array of token and produce a more useful API to give to a parser",
   "dependencies": {},
   "devDependencies": {
-    "istanbul": "*"
+    "c8": "*"
   },
   "scripts": {
-    "test": "node test && npm run coverage",
-    "coverage": "istanbul cover test"
+    "test": "node test/index.js && npm run coverage",
+    "coverage": "c8 node test/index.js"
   },
   "repository": {
     "type": "git",
