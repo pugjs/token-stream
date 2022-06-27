@@ -1,7 +1,7 @@
 'use strict';
 
 var assert = require('assert');
-var TokenStream = require('../');
+var TokenStream = require('../index.js');
 
 assert.throws(function () {
   new TokenStream('foo,bar');
